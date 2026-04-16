@@ -65,7 +65,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold">Email</h3>
-                  <p className="text-zinc-600">hello@ccs.agency</p>
+                  <p className="text-zinc-600">efiasolutions@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -74,7 +74,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold">Phone</h3>
-                  <p className="text-zinc-600">+1 (555) 000-1234</p>
+                  <p className="text-zinc-600">0776598009</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -83,7 +83,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold">Studio</h3>
-                  <p className="text-zinc-600">123 Creative Way, San Francisco, CA</p>
+                  <p className="text-zinc-600">Amman-jordan</p>
                 </div>
               </div>
             </div>
